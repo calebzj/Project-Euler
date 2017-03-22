@@ -1,4 +1,4 @@
-test
+Project Euler
 ====
 
-This is a test repo.
+This my repo for my personal Project Euler problems.
